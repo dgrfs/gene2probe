@@ -1,2 +1,4 @@
 hg38_resources
 .DS_Store
+._DS_Store
+sample_run/*
